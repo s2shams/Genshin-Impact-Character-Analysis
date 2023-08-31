@@ -1,0 +1,10 @@
+1) What character had the highest overall usage rate/revenue? (and lowest)
+- Character usage:
+	Highest usage: Nahida
+	Lowest usage: Candace
+- Character revenue:
+	Highest total revenue: Shogun
+	Lowest total revenue: Baizhu
+	Highest revenue per banner: Shogun
+	Lowest revenue per banner: Albedo
+	
