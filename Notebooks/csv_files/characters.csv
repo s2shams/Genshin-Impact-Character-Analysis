@@ -1,0 +1,67 @@
+Name,rarity,vision,weapon_type,constellation,birthday,special_dish,affiliation,HP,ATK,DEF,Ascension Stat,Ascension Stat Value,Element,Weapon,Nation,Model Type
+Albedo,5,Geo,Sword,Princeps Cretaceus,13-Sep,Woodland Dream,Knights of Favonius,13225,251,876,Geo DMG Bonus,28.8%,Geo,Sword,Mondstadt,Medium Male
+Alhaitham,5,Dendro,Sword,Vultur Volans,11-Feb,Ideal Circumstance,Sumeru Akademiya,13348,313,781,Dendro DMG Bonus,28.8%,Dendro,Sword,Sumeru,Tall Male
+Amber,4,Pyro,Bow,Lepus,10-Aug,Outrider's Champion Steak!,Knights of Favonius,9461,223,600,ATK,24.0%,Pyro,Bow,Mondstadt,Medium Female
+Arataki Itto,5,Geo,Claymore,Taurus Iracundus,01-Jun,Way of the Strong,Arataki Gang,12858,227,959,CRIT Rate,19.2%,Geo,Claymore,Inazuma,Tall Male
+Baizhu,5,Dendro,Catalyst,Lagenaria,25-Apr,Heat-Quelling Soup,Bubu Pharmacy,13348,192,499,HP,28.8%,Dendro,Catalyst,Liyue,Tall Male
+Barbara,4,Hydro,Catalyst,Crater,05-Jul,Spicy Stew,Church of Favonius,9787,159,668,HP,24.0%,Hydro,Catalyst,Mondstadt,Medium Female
+Beidou,4,Electro,Claymore,Victor Mare,14-Feb,Flash-Fried Filet,The Crux,13049,225,648,Electro DMG Bonus,24.0%,Electro,Claymore,Liyue,Tall Female
+Bennett,4,Pyro,Sword,Rota Calamitas,01-Feb,Teyvat Charred Egg,Adventurers' Guild,12397,191,771,Energy Recharge,26.8%,Pyro,Sword,Mondstadt,Medium Male
+Candace,4,Hydro,Polearm,Sagitta Scutum,03-May,Utmost Care,Aaru Village,10874,212,682,HP,24.0%,Hydro,Polearm,Sumeru,Tall Female
+Chongyun,4,Cryo,Claymore,Nubis Caesor,07-Sep,Cold Noodles with Mountain Delicacies,Tianheng Thaumaturges,10983,223,648,ATK,24.0%,Cryo,Claymore,Liyue,Medium Male
+Collei,4,Dendro,Bow,Leptailurus Cervarius,08-May,Yearning,Gandharva Ville,9787,199,600,ATK,24.0%,Dendro,Bow,Sumeru,Medium Female
+Cyno,5,Electro,Polearm,Lupus Aureus,23-Jun,Duel Soul,Temple of Silence,12490,318,859,CRIT DMG,38.4%,Electro,Polearm,Sumeru,Medium Male
+Dehya,5,Pyro,Claymore,Mantichora,07-Apr,Goldflame Tajine,The Eremites,15674,265,627,HP,28.8%,Pyro,Claymore,Sumeru,Tall Female
+Diluc,5,Pyro,Claymore,Noctua,30-Apr,"""Once Upon a Time in Mondstadt""""""",Dawn Winery,12980,334,783,CRIT Rate,19.2%,Pyro,Claymore,Mondstadt,Tall Male
+Diona,4,Cryo,Bow,Feles,18-Jan,Definitely Not Bar Food!,The Cat's Tail,9569,212,600,Cryo DMG Bonus,24.0%,Cryo,Bow,Mondstadt,Short Female
+Dori,4,Electro,Claymore,Magicae Lucerna,21-Dec,Show Me the Mora,The Palace of Alcazarzaray,12397,223,723,HP,24.0%,Electro,Claymore,Sumeru,Short Female
+Eula,5,Cryo,Claymore,Aphros Delos,25-Oct,Stormcrest Pie,Knights of Favonius,13225,342,750,CRIT DMG,38.4%,Cryo,Claymore,Mondstadt,Tall Female
+Faruzan,4,Anemo,Bow,Flosculi Implexi,20-Aug,Traditionally-Made Charcoal-Baked Ajilenakh Cake,Haravatat,9569,196,627,ATK,24.0%,Anemo,Bow,Sumeru,Medium Female
+Fischl,4,Electro,Bow,Corvus,27-May,Die Heilige Sinfonie,Adventurers' Guild,9189,244,593,ATK,24.0%,Electro,Bow,Mondstadt,Medium Female
+Ganyu,5,Cryo,Bow,Sinae Unicornis,02-Dec,Prosperous Peace,Yuehai Pavilion,9796,334,630,CRIT DMG,38.4%,Cryo,Bow,Liyue,Medium Female
+Gorou,4,Geo,Bow,Canis Bellatoris,18-May,Victorious Legend,Watatsumi Island,9569,182,648,Geo DMG Bonus,24.0%,Geo,Bow,Inazuma,Medium Male
+Hu Tao,5,Pyro,Polearm,Papilio Charontis,15-Jul,Ghostly March,Wangsheng Funeral Parlor,15552,106,876,CRIT DMG,38.4%,Pyro,Polearm,Liyue,Medium Female
+Jean,5,Anemo,Sword,Leo Minor,14-Mar,Invigorating Pizza,Knights of Favonius,14695,239,768,Healing Bonus,22.0%,Anemo,Sword,Mondstadt,Tall Female
+Kaedehara Kazuha,5,Anemo,Sword,Acer Palmatum,29-Oct,All-Weather Beauty,The Crux,13348,296,806,Elemental Mastery,115.2,Anemo,Sword,Inazuma,Medium Male
+Kaeya,4,Cryo,Sword,Pavo Ocellus,30-Nov,Fruity Skewers,Knights of Favonius,11636,223,791,Energy Recharge,26.8%,Cryo,Sword,Mondstadt,Tall Male
+Kamisato Ayaka,5,Cryo,Sword,Grus Nivis,28-Sep,"""Snow on the Hearth""""""",Yashiro Commission,12858,342,783,CRIT DMG,38.4%,Cryo,Sword,Inazuma,Medium Female
+Kamisato Ayato,5,Hydro,Sword,Cypressus Custos,26-Mar,Quiet Elegance,Yashiro Commission,13715,298,768,CRIT DMG,38.4%,Hydro,Sword,Inazuma,Tall Male
+Kaveh,4,Dendro,Claymore,Paradisaea,09-Jul,The Endeavor,Independent Design Studio,11962,233,750,Elemental Mastery,96.0,Dendro,Claymore,Sumeru,Tall Male
+Keqing,5,Electro,Sword,Trulla Cementarii,20-Nov,Survival Grilled Fish,Liyue Qixing,13103,322,799,CRIT DMG,38.4%,Electro,Sword,Liyue,Medium Female
+Kirara,4,Dendro,Sword,Arcella,22-Jan,Energizing Bento,Komaniya Express,12179,223,546,HP,24.0%,Dendro,Sword,Inazuma,Medium Female
+Klee,5,Pyro,Catalyst,Trifolium,27-Jul,Fish-Flavored Toast,Knights of Favonius,10286,310,614,Pyro DMG Bonus,28.8%,Pyro,Catalyst,Mondstadt,Short Female
+Kujou Sara,4,Electro,Bow,Flabellum,14-Jul,Faith Eternal,Tenryou Commission,9569,195,627,ATK,24.0%,Electro,Bow,Inazuma,Tall Female
+Kuki Shinobu,4,Electro,Sword,Tribulatio Demptio,27-Jul,Omurice Waltz,Arataki Gang,12288,212,750,HP,24.0%,Electro,Sword,Inazuma,Medium Female
+Layla,4,Cryo,Sword,Luscinia,19-Dec,Extravagant Slumber,Rtawahist,11092,216,655,HP,24.0%,Cryo,Sword,Sumeru,Medium Female
+Lisa,4,Electro,Catalyst,Tempus Fugit,09-Jun,Mysterious Bolognese,Knights of Favonius,9569,231,573,Elemental Mastery,96.0,Electro,Catalyst,Mondstadt,Tall Female
+Mika,4,Cryo,Polearm,Palumbus,11-Aug,Surveyor's Breakfast Sandwich,Knights of Favonius,12506,223,713,HP,24.0%,Cryo,Polearm,Mondstadt,Medium Male
+Mona,5,Hydro,Catalyst,Astrolabos,31-Aug,Der Weisheit Letzter Schluss (Life),Mondstadt,10409,287,653,Energy Recharge,32.0%,Hydro,Catalyst,Mondstadt,Medium Female
+Nahida,5,Dendro,Catalyst,Sapientia Oromasdis,27-Oct,Halvamazd,Sumeru City,10360,298,630,Elemental Mastery,115.2,Dendro,Catalyst,Sumeru,Short Female
+Nilou,5,Hydro,Sword,Lotos Somno,03-Dec,Swirling Steps,Zubayr Theater,15184,229,728,HP,28.8%,Hydro,Sword,Sumeru,Medium Female
+Ningguang,4,Geo,Catalyst,Opus Aequilibrium,26-Aug,Qiankun Mora Meat,Liyue Qixing,9787,212,573,Geo DMG Bonus,24.0%,Geo,Catalyst,Liyue,Tall Female
+Noelle,4,Geo,Claymore,Parma Cordis,21-Mar,Lighter-Than-Air Pancake,Knights of Favonius,12071,191,798,DEF,30.0%,Geo,Claymore,Mondstadt,Medium Female
+Qiqi,5,Cryo,Sword,Pristina Nova,03-Mar,No Tomorrow,Bubu Pharmacy,12368,287,922,Healing Bonus,22.0%,Cryo,Sword,Liyue,Short Female
+Raiden Shogun,5,Electro,Polearm,Imperatrix Umbrosa,26-Jun,None,Inazuma City,12907,337,789,Energy Recharge,32.0%,Electro,Polearm,Inazuma,Tall Female
+Razor,4,Electro,Claymore,Lupus Minor,09-Sep,Puppy-Paw Hash Brown,Wolvendom,11962,233,750,Physical DMG Bonus,30.0%,Electro,Claymore,Mondstadt,Medium Male
+Rosaria,4,Cryo,Polearm,Spinea Corona,24-Jan,Dinner of Judgement,Church of Favonius,12288,240,709,ATK,24.0%,Cryo,Polearm,Mondstadt,Tall Female
+Sangonomiya Kokomi,5,Hydro,Catalyst,Dracanea Somnolenta,22-Feb,A Stunning Stratagem,Watatsumi Island,13470,234,657,Hydro DMG Bonus,28.8%,Hydro,Catalyst,Inazuma,Medium Female
+Sayu,4,Anemo,Claymore,Nyctereutes Minor,19-Oct,Dizziness-Be-Gone no Justu Version 2.0,Shuumatsuban,11853,244,744,Elemental Mastery,96.0,Anemo,Claymore,Inazuma,Short Female
+Shenhe,5,Cryo,Polearm,Crista Doloris,10-Mar,Heartstring Noodles,Cloud Retainer's Abode,12992,303,830,ATK,28.8%,Cryo,Polearm,Liyue,Tall Female
+Shikanoin Heizou,4,Anemo,Catalyst,Cervus Minor,24-Jul,The Only Truth,Tenryou Commission,10657,225,683,Anemo DMG Bonus,24.0%,Anemo,Catalyst,Inazuma,Medium Male
+Sucrose,4,Anemo,Catalyst,Ampulla,26-Sep,Nutritious Meal (V.593),Knights of Favonius,9243,169,702,Anemo DMG Bonus,24.0%,Anemo,Catalyst,Mondstadt,Medium Female
+Tartaglia,5,Hydro,Bow,Monoceros Caeli,20-Jul,A Prize Catch,Fatui,13103,301,814,Hydro DMG Bonus,28.8%,Hydro,Bow,Snezhnaya,Tall Male
+Thoma,4,Pyro,Polearm,Rubeum Scutum,09-Jan,"""Warmth""""""",Yashiro Commission,10331,201,750,ATK,24.0%,Pyro,Polearm,Inazuma,Tall Male
+Tighnari,5,Dendro,Bow,Vulpes Zerda,29-Dec,Forest Watcher's Choice,Gandharva Ville,10849,267,630,Dendro DMG Bonus,28.8%,Dendro,Bow,Sumeru,Medium Male
+Venti,5,Anemo,Bow,Carmen Dei,16-Jun,A Buoyant Breeze,Mondstadt,10531,263,668,Energy Recharge,32.0%,Anemo,Bow,Mondstadt,Medium Male
+Wanderer,5,Anemo,Catalyst,Peregrinus,03-Jan,Shimi Chazuke,None,10164,327,607,CRIT Rate,19.2%,Anemo,Catalyst,Sumeru,Medium Male
+Xiangling,4,Pyro,Polearm,Trulla,02-Nov,Wanmin Restaurant's Boiled Fish,Wanmin Restaurant,10874,225,668,Elemental Mastery,96.0,Pyro,Polearm,Liyue,Medium Female
+Xiao,5,Anemo,Polearm,Alatus Nemeseos,17-Apr,"""Sweet Dream""""""",Liyue Adeptus,12735,349,799,CRIT Rate,19.2%,Anemo,Polearm,Liyue,Medium Male
+Xingqiu,4,Hydro,Sword,Fabulae Textile,09-Oct,All-Delicacy Parcels,Feiyun Commerce Guild,10222,201,757,ATK,24.0%,Hydro,Sword,Liyue,Medium Male
+Xinyan,4,Pyro,Claymore,Fila Ignium,16-Oct,Rockin' Riffin' Chicken!,"""The Red Strings""""""",11201,248,798,ATK,24.0%,Pyro,Claymore,Liyue,Medium Female
+Yae Miko,5,Electro,Catalyst,Divina Vulpes,27-Jun,Fukuuchi Udon,Grand Narukami Shrine,10372,339,568,CRIT Rate,19.2%,Electro,Catalyst,Inazuma,Tall Female
+Yanfei,4,Pyro,Catalyst,Bestia Iustitia,28-Jul,"""My Way""""""",Yanfei Legal Consultancy,9352,240,586,Pyro DMG Bonus,24.0%,Pyro,Catalyst,Liyue,Medium Female
+Yaoyao,4,Dendro,Polearm,Osmanthus,06-Mar,Qingce Household Dish,Streetward Rambler's Abode,12288,212,750,HP,24.0%,Dendro,Polearm,Liyue,Short Female
+Yelan,5,Hydro,Bow,Umbrabilis Orchis,20-Apr,Dew-Dipped Shrimp,Yanshang Teahouse,14450,243,547,CRIT Rate,19.2%,Hydro,Bow,Liyue,Tall Female
+Yoimiya,5,Pyro,Bow,Carassius Auratus,21-Jun,Summer Festival Fish,Naganohara Fireworks,10164,322,614,CRIT Rate,19.2%,Pyro,Bow,Inazuma,Medium Female
+Yun Jin,4,Geo,Polearm,Opera Grandis,21-May,Cloud-Shrouded Jade,Yun-Han Opera House,10657,191,734,Energy Recharge,26.8%,Geo,Polearm,Liyue,Medium Female
+Zhongli,5,Geo,Polearm,Lapis Dei,31-Dec,Slow-Cooked Bamboo Shoot Soup,Liyue Harbor,14695,251,737,Geo DMG Bonus,28.8%,Geo,Polearm,Liyue,Tall Male
