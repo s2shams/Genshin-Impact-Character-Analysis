@@ -9,7 +9,7 @@
 
 ### Still Under Progress:
 - Still currently collecting data related to people's opinions on individual characters through surveys (https://forms.gle/7xFsv3CDSs4Xvh6y9)
-- Dashboard is still in the making.
+- Dashboard is still in the making, you can view it [here](https://app.powerbi.com/view?r=eyJrIjoiOGFhNmIzNWMtYjY1NS00Njc5LTgyZmItNDgwZWNmNTRkMDc5IiwidCI6IjBjOGRkM2YwLTgwZGYtNDgyMi04ZWZmLTBhNjdhMTUyNTk3NiJ9).
 
 ### Future Goals Of The Project:
 - Automate all repetitive tasks to make code more efficient and run fast.
