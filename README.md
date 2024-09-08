@@ -37,5 +37,5 @@ Anyways, the idea is that, usually people want to get a popular 5 star, since if
 ### Page 2 (Characters)
 ![image](https://github.com/user-attachments/assets/067f2d21-e312-45e9-9ecc-93839ab7292d)
 
-In this page you can get information specific to characters. How satisfied people are with the character, a breakdown of why people wished for the character, a breakdown of revenue generated during their banner(s), and how their Spiral Abyss usage fluctuated over time. Players can 
+In this page you can get information specific to characters. How satisfied people are with the character, a breakdown of why people wished for the character, a breakdown of revenue generated during their banner(s), and how their Spiral Abyss usage fluctuated over time. Players can use this page to compare the characters they're interested in.
 
