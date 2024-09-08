@@ -1,6 +1,6 @@
 # Genshin-Impact-Character-Analysis
 
-### Problem Statement
+## Problem Statement
 Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game) as of recent. A common issue that most new players face, especially F2Ps (Free-To-Play Players) is choosing their first first 5 star character. The gacha system in Genshin is as follows: You have a 0.6% chance of receiving a 5 star, once you've crossed 70 wishes, the percentage starts ramping up, by the 90th wish, you are guaranteed to receive a 5 star. However, assuming this is your first 5 star, or your last 5 star was a limited event character, the chances of your 5 star being the one you want is 50%. It can take several months to save up enough primogems (in-game currency used for the wishing system) to guarantee a 5 star. Due to the long time, a lot of players don't want to pick a "bad" 5 star. This project aims to provide a data-driven apporach for new players to pick a character to save for based on information such as popularity, banner profits, spiral abyss usage etc.
 
 ### Future Goals Of The Project:
@@ -23,7 +23,10 @@ Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game)
 
 - Elements: Anemo = Air, Pyro = Fire, Hydro = Water, Electro = Electricity, Geo = Rock, Dendro = Earth.
 
-### Dashboard
+## Dashboard
 In this section I will showcase the dashboard that was built on Power BI and the reasoning behind each visual and what information they are meant to convey.
-The dashboard can be found in the "Dashboard" folder. I highly suggest you to install and play around with it (if you can), since there are a lot of   features that are lost when shown through images.
+The dashboard can be found in the "Dashboard" folder. I highly suggest you to install and play around with it (if you can), since there are a lot of features that are lost when shown through images.
+
+### Page 1 (Revenue)
+![image](https://github.com/user-attachments/assets/b203f7bb-eaef-4170-8a96-bc6463d87628)
 
