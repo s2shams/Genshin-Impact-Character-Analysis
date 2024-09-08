@@ -32,3 +32,5 @@ The dashboard can be found in the "Dashboard" folder. I highly suggest you to in
 
 A character in Genshin can be popular for lot's of reasons. They can be useful in Spiral Abyss, they can just have fun mechanics, they can be good looking, and they could also have beautiful animations, I personally pulled for my first 5 star simply because I thought the character had a really sick animation, you can see it yourself [here](https://www.youtube.com/watch?v=VQkZ1tKMC4I&ab_channel=Tyr).
 
+Anyways, the idea is that, usually people want to get a popular 5 star, since if they are popular, they are popular for some good reason. The purpose of this page is to let players find out, who's actually popular, when were they popular, and if they're as popular as they were when they first released, since characters can get powercrept (meaning that a new character could do what they do but way better, so people stop using the old character. One example of this would be Venti and Kazuha)
+
