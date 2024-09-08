@@ -15,3 +15,11 @@ Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game)
 - Dashboard: This contains the dashboard bluprints of each page.
 - Images: This contains all images used in the project/dashboard. This includes elemental backgrounds and also character images.
 - Raw: Contains all the rough/preprocessed data and analysis.
+
+### Dictionary
+- Spiral Abyss: It's a series of trials that frequently change. Player's can use the characters they have to compete in this trials for rewards. A lot of people use these trials as a deciding factor on which character to pull, since some characters are usually more versatile/efficient than others.
+
+- Banner: Not all characters can be obtained at any given moment. They have to be released in what is called a banner. A banner is essentially when a character is obtainable, in every version, the banner rotates once, and since there are always 2 banners at any given moment, in every version, there are 4 characters that are available to obtain. It's worth mentioning that a version is usually 42 days long, and since there are 34 limited characters, sometimes you have to wait over a year for the character you want to show up in a banner.
+
+- Elements: Anemo = Air, Pyro = Fire, Hydro = Water, Electro = Electricity, Geo = Rock, Dendro = Earth.
+
