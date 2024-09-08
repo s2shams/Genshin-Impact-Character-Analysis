@@ -1,20 +1,10 @@
 # Genshin-Impact-Character-Analysis
 
-### Main Purpose Of The Project
-- Use data analysis to answer a set of questions to help create a list of 4 "must have" 5 star characters to recommend to new players.
-- Create a visually pleasing dashboard to make it easy to display findings.
-- Exercise webscraping and data wrangling techniques.
-- Refresh Python visualization skills and become more proficient in them.
-- Combine SQL, pandas and visualization tools to make everything so much easier and less complicated.
-
-### Still Under Progress:
-- Still currently collecting data related to people's opinions on individual characters through surveys (https://forms.gle/7xFsv3CDSs4Xvh6y9)
-- Dashboard is still in the making, you can view it [here](https://app.powerbi.com/view?r=eyJrIjoiOGFhNmIzNWMtYjY1NS00Njc5LTgyZmItNDgwZWNmNTRkMDc5IiwidCI6IjBjOGRkM2YwLTgwZGYtNDgyMi04ZWZmLTBhNjdhMTUyNTk3NiJ9).
+### Problem Statement
+Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game) as of recent. A common issue that most new players face, especially F2Ps (Free-To-Play Players) is choosing their first first 5 star character. The gacha system in Genshin is as follows: You have a 0.6% chance of receiving a 5 star, once you've crossed 70 wishes, the percentage starts ramping up, by the 90th wish, you are guaranteed to receive a 5 star. However, assuming this is your first 5 star, or your last 5 star was a limited event character, the chances of your 5 star being the one you want is 50%. It can take several months to save up enough primogems (in-game currency used for the wishing system) to guarantee a 5 star. Due to the long time, a lot of players don't want to pick a "bad" 5 star. This project aims to provide a data-driven apporach for new players to pick a character to save for based on information such as popularity, banner profits, spiral abyss usage etc.
 
 ### Future Goals Of The Project:
-- Automate all repetitive tasks to make code more efficient and run fast.
-- Gain feedback from the community and update the data/visuals with community feedback.
-- Update the datasets to include newly released characters.
+- Automate the data collection so dashboard is updated with every new character.
 
 ### Info
 - All the datasets were webscraped from genshinlab.com and paimon.moe
