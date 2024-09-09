@@ -34,7 +34,7 @@ A character in Genshin can be popular for lots of reasons. They can be useful in
 
 Anyways, the idea is that, usually people want to get a popular 5 star, since if they are popular, they are popular for some good reason. The purpose of this page is to let players find out, who's actually popular, when were they popular, and if they're as popular as they were when they first released, since characters can get powercrept (meaning that a new character could do what they do but way better, so people stop using the old character. One example of this would be Venti and Kazuha)
 
-### Page 2 (Characters)______________________________________________________________________________________________________
+### Page 2 (Characters)_________________________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/067f2d21-e312-45e9-9ecc-93839ab7292d)
 
 In this page you can get information specific to characters. How satisfied people are with the character, a breakdown of why people wished for the character, a breakdown of revenue generated during their banner(s), and how their Spiral Abyss usage fluctuated over time. Players can use this page to compare the characters they're interested in.
