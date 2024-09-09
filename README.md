@@ -44,5 +44,15 @@ In this page you can get information specific to characters. How satisfied peopl
 
 This page is all about Spiral Abyss. If you just want a character that performs well in Spiral Abyss consistently, you can find that out here. You can also see how the popularity of an element changes over time, additionally the average usage of a character and an element. This will allow players to pick an element/character that will help them in Spiral Abyss regardless of what type of lineup they have to go against.
 
+# Final Remarks
+
+- This dashboard was made back when version 3.8 was the latest version (around late Summer 2023). Right now Genshin is at version 5.0, hence the data is not upto date as of now. And the information of 6 characters are missing.
+
+- A lot can be done to improve the dashboard. Some ideas I have in mind right now is to add information on how long it takes on average to level up a character and how long it takes to achieve their best loadout, this would be added in the "Characters" tab. I also want to add information about the most used teams of a chosen character and how F2P friendly a character is, since some characters require other limited 5 star characters to perform well, this would be added in the "Spiral Abyss" tab.
+
+- It's worth mentioning that this game can be 100% completed with any 5 star, in fact it can be completed without any 5 stars at all. My personal advice to anyone is to simply wish for characters that you are interested in. There is no "must have" character, but there are a lot of characters that make the game significantly easier (Ex: Neuvillete).
+
+- You can take a brief look at my Genshin profile over [here](https://akasha.cv/profile/721888609). FYI, I don't play this game as much as I used to, it's still one of my favourite games though, and I am a proud Xiao main, as you can tell by my top 1% build 😌
+
 
 
