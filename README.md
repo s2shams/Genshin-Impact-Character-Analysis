@@ -28,7 +28,7 @@ In this section I will showcase the dashboard that was built on Power BI and the
 The dashboard can be found in the "Dashboard" folder. I highly suggest you to install and play around with it (if you can), since there are a lot of features that are lost when shown through images.
 
 <div align="center">
-  <h3>Page 1 (Revenue)</h3>
+  <h3>__________Page 1 (Revenue)__________</h3>
 </div>
 ![image](https://github.com/user-attachments/assets/bd6f3edd-75c2-4d51-bed7-68787c82d813)
 
@@ -36,12 +36,16 @@ A character in Genshin can be popular for lots of reasons. They can be useful in
 
 Anyways, the idea is that, usually people want to get a popular 5 star, since if they are popular, they are popular for some good reason. The purpose of this page is to let players find out, who's actually popular, when were they popular, and if they're as popular as they were when they first released, since characters can get powercrept (meaning that a new character could do what they do but way better, so people stop using the old character. One example of this would be Venti and Kazuha)
 
-### Page 2 (Characters)_________________________________________________________________________________________________
+<div align="center">
+  <h3>__________Page 2 (Characters)__________</h3>
+</div>
 ![image](https://github.com/user-attachments/assets/067f2d21-e312-45e9-9ecc-93839ab7292d)
 
 In this page you can get information specific to characters. How satisfied people are with the character, a breakdown of why people wished for the character, a breakdown of revenue generated during their banner(s), and how their Spiral Abyss usage fluctuated over time. Players can use this page to compare the characters they're interested in.
 
-### Page 3 (Spiral Abyss)_______________________________________________________________________________________________
+<div align="center">
+  <h3>__________Page 3 (Spiral Abyss)__________</h3>
+</div>
 ![image](https://github.com/user-attachments/assets/b6c3f258-925d-4161-8eda-1ee4de04d294)
 
 This page is all about Spiral Abyss. If you just want a character that performs well in Spiral Abyss consistently, you can find that out here. You can also see how the popularity of an element changes over time, additionally the average usage of a character and an element. This will allow players to pick an element/character that will help them in Spiral Abyss regardless of what type of lineup they have to go against.
