@@ -23,7 +23,7 @@ Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game)
 
 - Elements: Anemo = Air, Pyro = Fire, Hydro = Water, Electro = Electricity, Geo = Rock, Dendro = Earth.
 
-## Dashboard
+# Dashboard
 In this section I will showcase the dashboard that was built on Power BI and the reasoning behind each visual and what information they are meant to convey.
 The dashboard can be found in the "Dashboard" folder. I highly suggest you to install and play around with it (if you can), since there are a lot of features that are lost when shown through images.
 
