@@ -30,6 +30,7 @@ The dashboard can be found in the "Dashboard" folder. I highly suggest you to in
 <div align="center">
   <h3>__________Page 1 (Revenue)__________</h3>
 </div>
+
 ![image](https://github.com/user-attachments/assets/bd6f3edd-75c2-4d51-bed7-68787c82d813)
 
 A character in Genshin can be popular for lots of reasons. They can be useful in Spiral Abyss, they can have fun mechanics, they can be "good looking",they could have beautiful animations etc. I personally pulled for my first 5 star simply because I thought the character had a really sick animation, you can see it yourself [here](https://www.youtube.com/watch?v=VQkZ1tKMC4I&ab_channel=Tyr).
@@ -39,6 +40,7 @@ Anyways, the idea is that, usually people want to get a popular 5 star, since if
 <div align="center">
   <h3>__________Page 2 (Characters)__________</h3>
 </div>
+
 ![image](https://github.com/user-attachments/assets/067f2d21-e312-45e9-9ecc-93839ab7292d)
 
 In this page you can get information specific to characters. How satisfied people are with the character, a breakdown of why people wished for the character, a breakdown of revenue generated during their banner(s), and how their Spiral Abyss usage fluctuated over time. Players can use this page to compare the characters they're interested in.
@@ -46,6 +48,7 @@ In this page you can get information specific to characters. How satisfied peopl
 <div align="center">
   <h3>__________Page 3 (Spiral Abyss)__________</h3>
 </div>
+
 ![image](https://github.com/user-attachments/assets/b6c3f258-925d-4161-8eda-1ee4de04d294)
 
 This page is all about Spiral Abyss. If you just want a character that performs well in Spiral Abyss consistently, you can find that out here. You can also see how the popularity of an element changes over time, additionally the average usage of a character and an element. This will allow players to pick an element/character that will help them in Spiral Abyss regardless of what type of lineup they have to go against.
