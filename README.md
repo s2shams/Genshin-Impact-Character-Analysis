@@ -17,7 +17,7 @@ Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game)
 - Raw: Contains all the rough/preprocessed data and analysis.
 
 ### Dictionary
-- Spiral Abyss: It's a series of trials that frequently change. Player's can use the characters they have to compete in this trials for rewards. A lot of people use these trials as a deciding factor on which character to pull, since some characters are usually more versatile/efficient than others.
+- Spiral Abyss: It's a series of trials that frequently change, it's worth mentioning that sometimes, some characters are more suited against some enemies, the same goes for elements. Players can use the characters they have to compete in this trials for rewards. A lot of people use these trials as a deciding factor on which character to pull, since some characters are usually more versatile/efficient than others.
 
 - Banner: Not all characters can be obtained at any given moment. They have to be released in what is called a banner. A banner is essentially when a character is obtainable, in every version, the banner rotates once, and since there are always 2 banners at any given moment, in every version, there are 4 characters that are available to obtain. It's worth mentioning that a version is usually 42 days long, and since there are 34 limited characters, sometimes you have to wait over a year for the character you want to show up in a banner.
 
@@ -38,4 +38,11 @@ Anyways, the idea is that, usually people want to get a popular 5 star, since if
 ![image](https://github.com/user-attachments/assets/067f2d21-e312-45e9-9ecc-93839ab7292d)
 
 In this page you can get information specific to characters. How satisfied people are with the character, a breakdown of why people wished for the character, a breakdown of revenue generated during their banner(s), and how their Spiral Abyss usage fluctuated over time. Players can use this page to compare the characters they're interested in.
+
+### Page 3 (Spiral Abyss)
+![image](https://github.com/user-attachments/assets/b6c3f258-925d-4161-8eda-1ee4de04d294)
+
+This page is all about Spiral Abyss. If you just want a character that performs well in Spiral Abyss consistently, you can find that out here. You can also see how the popularity of an element changes over time, additionally the average usage of a character and an element. This will allow players to pick an element/character that will help them in Spiral Abyss regardless of what type of lineup they have to go against.
+
+
 
