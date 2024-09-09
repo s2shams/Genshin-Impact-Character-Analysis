@@ -7,7 +7,7 @@ Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game)
 - Automate the data collection so the dashboard is updated with every new character.
 
 ### Info
-- All the datasets were webscraped from genshinlab.com and paimon.moe using selenium and some manual data entry
+- All the datasets were webscraped from genshinlab.com and paimon.moe using selenium and some manual data entry.
 - Since it's impossible to know the distribution of revenue between the characters in a double banner, a ratio from the global wish tracker on paimon.moe was used to estimate the indivual character revenue.
 
 ### Folders
@@ -35,7 +35,7 @@ The dashboard can be found in the "Dashboard" folder. I highly suggest you to in
 
 A character in Genshin can be popular for lots of reasons. They can be useful in Spiral Abyss, they can have fun mechanics, they can be "good looking",they could have beautiful animations etc. I personally pulled for my first 5 star simply because I thought the character had a really sick animation, you can see it yourself [here](https://www.youtube.com/watch?v=VQkZ1tKMC4I&ab_channel=Tyr).
 
-Anyways, the idea is that, usually people want to get a popular 5 star, since if they are popular, they are popular for some good reason. The purpose of this page is to let players find out, who's actually popular, when were they popular, and if they're as popular as they were when they first released, since characters can get powercrept (meaning that a new character could do what they do but way better, so people stop using the old character. One example of this would be Venti and Kazuha)
+Anyways, the idea is that, usually people want to get a popular 5 star, since if they are popular, they are popular for some good reason. The purpose of this page is to let players find out, who's actually popular, when were they popular, and if they're as popular as they were when they first released, since characters can get powercrept (meaning that a new character could do what they do but way better, so people stop using the old character. One example of this would be Venti and Kazuha).
 
 <div align="center">
   <h3>__________Page 2 (Characters)__________</h3>
@@ -61,7 +61,7 @@ This page is all about Spiral Abyss. If you just want a character that performs 
 
 - It's worth mentioning that this game can be 100% completed with any 5 star, in fact it can be completed without any 5 stars at all. My personal advice to anyone is to simply wish for characters that you are interested in. There is no "must have" character, but there are a lot of characters that make the game significantly easier (Ex: Neuvillete).
 
-- You can take a brief look at my Genshin profile over [here](https://akasha.cv/profile/721888609). FYI, I don't play this game as much as I used to, it's still one of my favourite games though, and I am a proud Xiao main, as you can tell by my top 1% build 😌
+- You can take a brief look at my Genshin profile over [here](https://akasha.cv/profile/721888609). FYI, I don't play this game as much as I used to, it's still one of my favourite games though, and I am a proud Xiao main, as you can tell by my top 1% build 😌.
 
 
 
