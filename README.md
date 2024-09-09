@@ -21,7 +21,7 @@ Genshin Impact is amongst one of the most popular Gacha RPGs (Role Playing Game)
 
 - Banner: Not all characters can be obtained at any given moment. They have to be released in what is called a banner. A banner is essentially when a character is obtainable, in every version, the banner rotates once, and since there are always 2 banners at any given moment, in every version, there are 4 characters that are available to obtain. It's worth mentioning that a version is usually 42 days long, and since there are 34 limited characters, sometimes you have to wait over a year for the character you want to show up in a banner.
 
-- Elements: Anemo = Air, Pyro = Fire, Hydro = Water, Electro = Electricity, Geo = Rock, Dendro = Earth.
+- Elements: Anemo = Air, Pyro = Fire, Hydro = Water, Cryo = Ice, Electro = Electricity, Geo = Rock, Dendro = Earth.
 
 # Dashboard
 In this section I will showcase the dashboard that was built on Power BI and the reasoning behind each visual and what information they are meant to convey.
